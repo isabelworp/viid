@@ -196,7 +196,7 @@ Mijn startniveau is: blauw
   ### Dit ging goed/Heb ik geleerd: 
   Ik ben trots op mezelf dat het coderen een stuk beter gaat. Begin van het vak vond ik het erg moeilijk maar nu ben ik lekker bezig. Heb nog wel veel hulp nodig maar van vragen leer je ook. Ik heb nogsteeds moeite met coderen maar ik merk dat het steeds beter gaat.
 
-  <img src="readme-images/sadlapras.png" width="375px" alt="verdrietigelapras">
+  <img src="readme-images/sadlapras.webp" width="375px" alt="verdrietigelapras">
 
 
   ### Dit was lastig/Is niet gelukt:
@@ -207,7 +207,7 @@ Mijn startniveau is: blauw
 
   De ideeën die ik had waren soms meer voor zwarte piste geweest of als ik coderen wel leuker vond, ik vind het prima, maar heb er zeker nog veel moeite mee. Maar ik ben zeker tevreden met het resultaat.
 
-  <img src="readme-images/happylapras.png" width="375px" alt="blijelapras">
+  <img src="readme-images/happylapras.jpeg" width="375px" alt="blijelapras">
 </details>
 
 
