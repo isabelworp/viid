@@ -188,15 +188,15 @@ Mijn startniveau is: blauw
   <summary>Mijn eindresultaat & persoonlijke ontwikkeling</summary>
 
   ### Je uitkomst - karakteristiek screenshot(s):
-  <img src="readme-images/eind1" width="375px" alt="final ontwerp1">
-  <img src="readme-images/eind2" width="375px" alt="final ontwerp2">
-  <img src="readme-images/eind3" width="375px" alt="final ontwerp3">
+  <img src="readme-images/eind1.png" width="375px" alt="final ontwerp1">
+  <img src="readme-images/eind2.png" width="375px" alt="final ontwerp2">
+  <img src="readme-images/eind3.png" width="375px" alt="final ontwerp3">
 
 
   ### Dit ging goed/Heb ik geleerd: 
   Ik ben trots op mezelf dat het coderen een stuk beter gaat. Begin van het vak vond ik het erg moeilijk maar nu ben ik lekker bezig. Heb nog wel veel hulp nodig maar van vragen leer je ook. Ik heb nogsteeds moeite met coderen maar ik merk dat het steeds beter gaat.
 
-  <img src="readme-images/sadlapras" width="375px" alt="verdrietigelapras>
+  <img src="readme-images/sadlapras.png" width="375px" alt="verdrietigelapras">
 
 
   ### Dit was lastig/Is niet gelukt:
@@ -207,7 +207,7 @@ Mijn startniveau is: blauw
 
   De ideeën die ik had waren soms meer voor zwarte piste geweest of als ik coderen wel leuker vond, ik vind het prima, maar heb er zeker nog veel moeite mee. Maar ik ben zeker tevreden met het resultaat.
 
-  <img src="readme-images/happylapras" width="375px" alt="blijelapras">
+  <img src="readme-images/happylapras.png" width="375px" alt="blijelapras">
 </details>
 
 
