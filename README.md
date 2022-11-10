@@ -27,7 +27,7 @@ Mijn startniveau is: blauw
   <summary>De eerste versie/schets van je ontwerp & je persoonlijke uitdaging</summary>
 
   ### De eerste versie/schets:
- <img src = "images/laprasschets.JPG" alt = "eerste idee">
+ <img src = "readme-images/laprasschets.JPG" alt = "eerste idee">
 
 
   ### Je ambitie: 
@@ -50,7 +50,7 @@ Mijn startniveau is: blauw
   ### Bevinding 1:
   Omschrijving van wat er nog niet orde was:
   Bij deze eerste feedback ronde had ik eigenlijk alleen nog maar een papieren schets. Op deze schets was mijn idee te zien:
-  <img src = "images/laprasschets.JPG" alt = "eerste idee">
+  <img src = "readme-images/laprasschets.JPG" alt = "eerste idee">
   Wat er nog niet in orde was was voornamelijk mijn gedachte over hoe ik dit zou kunnen coderen, omdat dat niet mijn sterkste punt is. Het idee zelf vond ik erg leuk alleen wist ik niet hoe ik het moest aanpakken.
 
   #### Oplossing:
@@ -62,7 +62,7 @@ Mijn startniveau is: blauw
   ### Bevinding 2:
   Omschrijving van wat er nog niet orde was:
   Na de feebdack met Mila kreeg ik nog wat tips van haar. De rode post-its zijn tips of ideeën voor mijn Lapras site.
-  <img src = "images/feedbackmila.png" alt = "feedback">
+  <img src = "readme-images/feedbackmila.png" alt = "feedback">
   
 
   #### Oplossing:
@@ -103,16 +103,18 @@ Mijn startniveau is: blauw
   
   ### Bevinding 1:
   Omschrijving van wat er nog niet orde was (tekst en afbeeding(en)).
+  Ik kwam erachter dat ik nog geen kleurenpallet had gemaakt. Dat is wel handig om te hebben zei Eva, dus die had ik op mijn lijstje gezet.
 
-  #### oplossing:
-  Beschrijving hoe je het hebt hebt opgelost of als het niet gelukt is hoe je het zou oplossen (tekst en afbeeding(en)).
-
+  #### Oplossing:
+  Beschrijving hoe je het hebt hebt opgelost of als het niet gelukt is hoe je het zou oplossen:
+  Ik heb een kleuren pallet gemaakt in css met variabelen.
+  <img src = "readme-images/kleurenpallet.png" alt = "kleurenpallet">
 
 
   ### Bevinding 2:
   Omschrijving van wat er nog niet orde was (tekst en afbeeding(en)).
 
-  #### oplossing:
+  #### Oplossing:
   Beschrijving hoe je het hebt hebt opgelost of als het niet gelukt is hoe je het zou oplossen (tekst en afbeeding(en)).
 
 
