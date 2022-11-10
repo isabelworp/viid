@@ -113,14 +113,38 @@ Mijn startniveau is: blauw
 
   ### Bevinding 2:
   Omschrijving van wat er nog niet orde was (tekst en afbeeding(en)).
+  Ook kwam ik er achter dat ik de hover en focus states van de buttons nog moet toepassen. 
 
   #### Oplossing:
-  Beschrijving hoe je het hebt hebt opgelost of als het niet gelukt is hoe je het zou oplossen (tekst en afbeeding(en)).
-
+  Beschrijving hoe je het hebt hebt opgelost of als het niet gelukt is hoe je het zou oplossen:
+  Ik ben er nog niet aanbegonnen maar ik ga dat in de css oplossen met :hover, :active en :focus.
 
 
   ### Bevinding 3:
-  ...
+  Waar ik ook achter kwam is om bij belangrijke acties commentaar erbij te zetten. Dat zorgt voor duidelijkheid en structuur.
+
+  ### Oplossing:
+  Oplossing was simpel, meer commentaar schrijven bij mijn code, met // of met /*
+
+  ### Bevinding 4:
+  Eva gaf ook als tip om in je Javascript de functies en variabelen een toepasselijke naam te geven. Ik had bijvoorbeeld een opdracht vanuit de les gejat en in mijn code gezet, maar vergeten de button een andere naam te geven.
+
+  ### Oplossing:
+  Ik ging na de feedback meteen de namen veranderen van de variabelen veranderen zodat ik voor mezelf meer overzicht had.
+
+  ### Bevinding 5:
+  Ik was nog niet helemaal up to date met mijn bronnen in mijn code (wel in de bronnenlijst). het is zeker belangrijk om dat beter bij te houden omdat deze afbeeldingen niet van mij zijn.
+
+  ### Oplossing:
+  Ik heb de bronnen van de foto's in de code gezet dat ik de foto's daar vandaan heb.
+
+  ### Bevinding 6:
+  Als laatste tip kreeg ik de tip om dark mode toe te voegen, wat super simpel is om te doen en een leuke toevoeging is.
+
+  ### Oplossing:
+  Als oplossing heb ik het kleurenpallet gekopieerd en de kleuren aangepast.
+   <img src = "readme-images/kleurenpalletdark.png" alt = "kleurenpalletdark">
+  
 
 </details>
 
@@ -133,23 +157,25 @@ Mijn startniveau is: blauw
   <summary>Mijn bevindingen + wijzigingen met Stephanie</summary>
   
   ### Bevinding 1:
-  Omschrijving van wat er nog niet orde was (tekst en afbeeding(en)).
+  Omschrijving van wat er nog niet orde was:
+  Dit was het laatste feedback gesprek, dus bijna alles was al in orde. De eerste tip die ik nog kreeg is om een zingende lapras toe te voegen. Mila kwam bij de eerste feedback ronde daar ook mee maar dat was ik toen compleet vergeten.
 
-  #### oplossing:
-  Beschrijving hoe je het hebt hebt opgelost of als het niet gelukt is hoe je het zou oplossen (tekst en afbeeding(en)).
-
+  #### Oplossing:
+  Beschrijving hoe je het hebt hebt opgelost of als het niet gelukt is hoe je het zou oplossen:
+  Ik heb een button toegevoegd en die in javascript aangeroepen. Ik heb een eventlistener toegevoegd dat hij naar het klikken luisterde en een functie aan gemaakt. In de functie zette ik de tag audioplay() en als er op de button geklikt word gaat lapras zingen.
 
 
   ### Bevinding 2:
-  Omschrijving van wat er nog niet orde was (tekst en afbeeding(en)).
+  Omschrijving van wat er nog niet orde was:
+  Nog een tip, ik kreeg een idee om de tekst te laten veranderen als je op de Lapras drukt. 
 
   #### oplossing:
-  Beschrijving hoe je het hebt hebt opgelost of als het niet gelukt is hoe je het zou oplossen (tekst en afbeeding(en)).
+  Beschrijving hoe je het hebt hebt opgelost of als het niet gelukt is hoe je het zou oplossen.:
+  Ik heb dit idee bij twee buttons toegevoegd, bij de Pokeball en de muzieknoot. Voor de andere twee buttons had ik geen tijd, omdat dat wat ingewikkelder werd omdat deze buttons ook te maken hebben met het tonen van andere tekst en daardoor ging alles door elkaar. Ik wist nog dat ik met het vak programmeren dat ook had gedaan dus ik heb in mijn javascript een variabele aangemaakt om de tekst aan te roepen, en in de functies van de button de textContent te gebruiken.
 
 
-
-  ### Bevinding 3:
-  ...
+  ### Tot slot...
+  Tijdens deze laatste feedback ronde hadden Stephanie en ik verder geen andere bevindingen meer naar elkaar.
 
 </details>
 
@@ -162,19 +188,26 @@ Mijn startniveau is: blauw
   <summary>Mijn eindresultaat & persoonlijke ontwikkeling</summary>
 
   ### Je uitkomst - karakteristiek screenshot(s):
-  <img src="readme-images/dummy-plaatje.jpg" width="375px" alt="final ontwerp">
+  <img src="readme-images/eind1" width="375px" alt="final ontwerp1">
+  <img src="readme-images/eind2" width="375px" alt="final ontwerp2">
+  <img src="readme-images/eind3" width="375px" alt="final ontwerp3">
 
 
   ### Dit ging goed/Heb ik geleerd: 
-  Korte omschrijving met plaatje(s)
+  Ik ben trots op mezelf dat het coderen een stuk beter gaat. Begin van het vak vond ik het erg moeilijk maar nu ben ik lekker bezig. Heb nog wel veel hulp nodig maar van vragen leer je ook. Ik heb nogsteeds moeite met coderen maar ik merk dat het steeds beter gaat.
 
-  <img src="readme-images/dummy-plaatje.jpg" width="375px" alt="top">
+  <img src="readme-images/sadlapras" width="375px" alt="verdrietigelapras>
 
 
   ### Dit was lastig/Is niet gelukt:
-  Korte omschrijving met plaatje(s)
+  Ik kreeg soms veel stress van coderen. Tijdens de les als we samen aan het oefenen waren snapte ik vrijwel alles maar als je dan zelf aan de slag moet is het super lastig. Er zijn ook wat dingen waar ik helaas niet meer aan toe ben gekomen, namelijk:
+  - tekst laten verschijnen en verdwijnen met welke generatie in beeld is
+  - iets met shiny pokemon toevoegen
+  - het transporteren van a naar b met de lapras
 
-  <img src="readme-images/dummy-plaatje.jpg" width="375px" alt="bummer">
+  De ideeën die ik had waren soms meer voor zwarte piste geweest of als ik coderen wel leuker vond, ik vind het prima, maar heb er zeker nog veel moeite mee. Maar ik ben zeker tevreden met het resultaat.
+
+  <img src="readme-images/happylapras" width="375px" alt="blijelapras">
 </details>
 
 
@@ -183,15 +216,16 @@ Mijn startniveau is: blauw
 ## Bronnenlijst
 
 <details open>
-<summary>continu bijhouden terwijl je werkt</summary>
+<summary>Continu bijhouden terwijl je werkt</summary>
 
-Nb. Wees specifiek ('css-tricks' als bron is bijv. niet specifiek genoeg).
 
-1. bron 1: Serebii.net. Link: https://www.serebii.net/pokedex-rs/131.shtml Foto's en informatie van en over Lapras.
+1. bron 1: Serebii.net. Link: https://www.serebii.net/pokedex-rs/131.shtml Alle foto's en deels informatie van en over Lapras.
 2. bron 2: Wikipedia. Link: https://en.wikipedia.org/wiki/File:Poké_Ball_icon.svg Foto van Pokeball voor de button.
 3. bron 3: Pagecloud. Link: https://www.pagecloud.com/blog/how-to-add-custom-fonts-to-any-website Bron voor font-face.
 4. bron 4: Icons.com Link: https://icon-icons.com/icon/pokedex-pokemon-go-game/67530 Icoon Pokedex en Hartje met Pokemon.
 5. bron 5: Pokefandom Link: https://pokemon.fandom.com/nl/wiki/Lapras Informatie over Lapras.
 6. bron 6: Flaticon Link: https://www.flaticon.com/free-icon/music-note_43922 Muzieknoot icoon.
+7. bron 7: Reddit Link: https://www.reddit.com/r/respectthreads/comments/54w917/respect_ashs_lapras_pokemon_anime/ Lapras verdrietig.
+8. bron 8: Fandomspot Link: https://www.fandomspot.com/lapras-nicknames/ Blije Lapras.
 
 </details>
