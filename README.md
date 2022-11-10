@@ -49,7 +49,7 @@ Mijn startniveau is: blauw
   ### Bevinding 1:
   Omschrijving van wat er nog niet orde was:
   Bij deze eerste feedback ronde had ik eigenlijk alleen nog maar een papieren schets. Op deze schets was mijn idee te zien:
-  <img src = "images/laprasschets.jpg" alt = "eerste idee">
+  <img src = "images/laprasschets.JPG" alt = "eerste idee">
   Wat er nog niet in orde was was voornamelijk mijn gedachte over hoe ik dit zou kunnen coderen, omdat dat niet mijn sterkste punt is. Het idee zelf vond ik erg leuk alleen wist ik niet hoe ik het moest aanpakken.
 
   #### oplossing:
