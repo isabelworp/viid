@@ -1,0 +1,19 @@
+{
+	"folders": [
+		{
+			"path": "../font"
+		},
+		{
+			"path": "../images"
+		},
+		{
+			"path": "../readme-images"
+		},
+		{
+			"path": "../scripts"
+		},
+		{
+			"path": "."
+		}
+	]
+}
