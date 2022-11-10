@@ -1,11 +1,12 @@
 # Procesverslag
+<details>
 Markdown is een simpele manier om HTML te schrijven.  
 Markdown cheat cheet: [Hulp bij het schrijven van Markdown](https://github.com/adam-p/markdown-here/wiki/Markdown-Cheatsheet).
 
 Nb. De standaardstructuur en de spartaanse opmaak van de README.md zijn helemaal prima. Het gaat om de inhoud van je procesverslag. Besteedt de tijd voor pracht en praal aan je website.
 
 Nb. Door *open* toe te voegen aan een *details* element kun je deze standaard open zetten. Fijn om dat steeds voor de relevante stuk(ken) te doen.
-
+</details>
 
 
 
@@ -26,7 +27,7 @@ Mijn startniveau is: blauw
   <summary>De eerste versie/schets van je ontwerp & je persoonlijke uitdaging</summary>
 
   ### De eerste versie/schets:
-  <img src="readme-images/dummy-plaatje.jpg" width="375px" alt="eerste versie/schets">
+ <img src = "images/laprasschets.JPG" alt = "eerste idee">
 
 
   ### Je ambitie: 
@@ -44,7 +45,7 @@ Mijn startniveau is: blauw
 ## Voortgang/Feedback 1
 
 <details>
-  <summary>Mijn bevindingen + wijzigingen (minimaal 5) met Mila</summary>
+  <summary>Mijn bevindingen + wijzigingen met Mila</summary>
 
   ### Bevinding 1:
   Omschrijving van wat er nog niet orde was:
@@ -52,8 +53,8 @@ Mijn startniveau is: blauw
   <img src = "images/laprasschets.JPG" alt = "eerste idee">
   Wat er nog niet in orde was was voornamelijk mijn gedachte over hoe ik dit zou kunnen coderen, omdat dat niet mijn sterkste punt is. Het idee zelf vond ik erg leuk alleen wist ik niet hoe ik het moest aanpakken.
 
-  #### oplossing:
-  Beschrijving hoe je het hebt hebt opgelost of als het niet gelukt is hoe je het zou oplossen (tekst en afbeeding(en)).
+  #### Oplossing:
+  Beschrijving hoe je het hebt hebt opgelost of als het niet gelukt is hoe je het zou oplossen:
   Ik heb het probleem opgelost om gewoon te beginnen met een background color en de zee te schetsen op mijn iPad. Zo had ik in ieder geval een start. Daarna deed ik alle afbeeldingen in mijn html zodat ik alle plaatjes voor me zag. Na hulp van u en van Rosella kwam ik er achter dat ik met Javascript moest gaan werken.
 
 
@@ -64,16 +65,31 @@ Mijn startniveau is: blauw
   <img src = "images/feedbackmila.png" alt = "feedback">
   
 
-  #### oplossing:
+  #### Oplossing:
   Mila kwam met het idee om op de Pokeball te drukken en de Lapras te laten veranderen. Mijn eerste idee was om de Lapras te laten veranderen als je op de Lapras zelf drukt, maar hij zwemt heen en weer dus dat is best lastig klikken. Ik heb dankzij Mila dus ervoor gekozen om op de Pokeball te drukken en dat de Lapras verandert naar de volgende generatie. 
-
 
 
   ### Bevinding 3:
   Ik kwam er achter dat de Lapras wel verandert met de jaren qua 'uiterlijk', maar niet hoe hij zich gedraagd. Lapras blijft vanaf generatie 1 t/m generatie 8 dezelfde Pokemon met dezelfde eigenschappen.
 
-  #### oplossing:
+
+  #### Oplossing:
   Mijn idee is om een aparte button toe te voegen met algemene informatie van Lapras, die dus niet verandert maar wel klikbaar blijft.
+
+
+  ### Bevinding 4:
+  Mila kwam ook met het idee om de Lapras uit beeld te laten zwemmen, ik ging wat proberen met Rosella.
+
+
+  ### Oplossing:
+  Ik wilde eerst dat de Lapras uit beeld zou zwemmen en dan ging veranderen, maar de Lapras moest ook draaien. Ik heb samen met Rosella uiteindelijk de Lapras laten draaien, we probeerde vanalles met onder andere scale en rotate. Na een uur proberen kwamen we eruit en zwom de Lapras heen en weer.
+
+
+  ### Bevinding 5:
+  Mila en ik kwamen nog op het laatste idee en dat was om Lapras te laten zingen. 
+
+  ### Oplossing:
+  Ik wilde dat als je op de Lapras klikte dat hij dan ging zingen, maar dat werkte niet dus daar ga ik later nog verder aan werken.
 
 </details>
 
@@ -83,7 +99,7 @@ Mijn startniveau is: blauw
 ## Voortgang/Feedback 2
 
 <details>
-  <summary>Mijn bevindingen + wijzigingen (minimaal 5) met Eva</summary>
+  <summary>Mijn bevindingen + wijzigingen met Eva</summary>
   
   ### Bevinding 1:
   Omschrijving van wat er nog niet orde was (tekst en afbeeding(en)).
@@ -112,7 +128,7 @@ Mijn startniveau is: blauw
 ## Voortgang/Feedback 3
 
 <details>
-  <summary>Mijn bevindingen + wijzigingen (minimaal 5)</summary>
+  <summary>Mijn bevindingen + wijzigingen met Stephanie</summary>
   
   ### Bevinding 1:
   Omschrijving van wat er nog niet orde was (tekst en afbeeding(en)).
