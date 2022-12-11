@@ -211,8 +211,49 @@ Mijn startniveau is: blauw
 </details>
 
 
+### HERKANSING
+Ik moest nog wat aanpassingen doen aan mijn ontwerp. Ik vond het vrij lastig omdat coderen niet mijn sterkste punt is. Ik snap wel waarom ik nog aanpassingen moet doen omdat het nog niet klopt. Hier een paar punten die ik wil verbeteren:
+- Buttons op elkaar laten lijken
+- 1 geheel maken van mijn ontwerp
+- De Lapras klikbaar maken
+- De achtergrond veranderen naar een foto van het echte spel 
+- De Lapras in een echte zee laten zwemmen
+- Audio op pauze kunnen zetten
+- De tekst veranderen als er op de Lapras geklikt wordt zodat je weet welke generatie er nu is
+- Lapras scherper maken
 
+Al deze punten heb ik uiteindelijk verwerkt in mijn ontwerp en ik vind dat het er zeker op vooruit is gegaan als ik het naast elkaar zie.
 
+1. Buttons op elkaar laten lijken
+Ik heb ten eerste alle buttons in Illustrator gestopt en naast elkaar gezet zodat ik alle lijnen even dik kon maken. Dat zag er al veel beter uit. Ik heb er uiteindelijk ook voor gekozen om het rood weg te laten en alles blauw te maken, wat beter in het ontwerp past. De buttons staan nu ook wat verder uit elkaar voor iets meer speling tussen de buttons.
+
+2. 1 geheel maken van mijn ontwerp
+Dit is eigenlijk het hele probleem van mijn eerste ontwerp. Het klopte wel maar visueel was het niet helemaal top. Dat komt voornamelijk omdat ik dit een lastig vak vond en niet heel leuk. Ik vond mijn eerste ontwerp prima maar niet heel leuk. Nu ik mijn tweede ontwerp heb gemaakt ben ik er veel trotser op omdat het naar mijn idee echt een geheel is met elkaar. Ik heb verschillende veranderingen toegepast die overduidelijk te zien zijn.
+
+3. De Lapras klikbaar maken
+Ik had van de Lapras ieen link gemaakt n mijn HTML zodat hij ook een box-shadow kreeg, maar hij was niet klikbaar. Dat kan een beetje verwarrend zijn, dus heb ik in mijn Javascript ervoor gezorgd dat de Lapras klikbaar is met de tag: addEventListener. Ik had dit in eerste instantie ook gedaan voordat ik buttons had gemaakt, maar nu kan er en op de button geklikt worden en op de Lapras zelf.
+
+4. De achtergrond veranderen naar een foto van het echte spel
+Visueel was mijn eerste ontwerp heel saai. De zee was donkerblauw en de lucht lichtblauw. Ik heb er nu voor gezorgd dat de achtergrond past bij de generatie Lapras. Bij de eerste generatie is alles alleen maar pixel, en per klik gaan er pixels weg tot de laatste generatie. Oom verandert de zee mee waar de Lapras in zwemt. Hiermee moest ik in JavaScript werken en ik kwam er bijna niet uit, maar gelukkig is het toch gelukt.
+
+5. De Lapras in de zee laten zwemmen
+De achtergrond verandert mee maar de zee waar de Lapras in zwemt nu ook (wat ik net al had uitgelegd). Dit was ook best lastig om te maken want met 1 button moeten 3 dingen veranderen. Na veel proberen en gezoek op internet ben ik eruit gekomen.
+
+6. Audio op pauze kunnen zetten
+De audio kon je eigenlijk niet stil zetten en dat vond ik best irritant. Als kleine toevoeging heb ik ervoor gezorgd dat je de audio op pauze kan zetten als je weer op de button drukt.
+
+7. De tekst veranderen als er op de Lapras geklikt wordt zodat je weet welke generatie er nu is
+Als laatste aanpassing heb ik ervoor gezorgd dat de gebruiker van de website ziet bij welke generatie hij zit. Dat kan je zien als je op de Lapras drukt. De tekst bovenin verandert namelijk en daar staat welke generatie Lapras je nu ziet. Qua buitenkant verandert de Lapras wle maar qua innerlijk niet.
+
+8. Lapras scherper maken
+Soms waren de afbeeldingen een beetje wazig maar ik heb na wat Photoshop kunsten geprobeerd om meer pixels toe te voegen aan de afbeeldingen en ik vind dat ze er nu allemaal goed uit zien. Sommige moesten een beetje bewerkt worden en kostte veel tijd want ik werk niet vaak met Photoshop.
+
+### TOT SLOT
+Ik vind dat mijn ontwerp nu visueel zeker beter bij elkaar past en ik ben er nu nog trotser op. Het was namelijk een heel gedoe om de achtergrond en de zee te laten veranderen en zonder les of hulp vond ik dat best lastig. 
+Hier de twee versies naast elkaar:
+
+<img src="readme-images/versie1lapras.jpeg" width="375px" alt="versie1">
+<img src="readme-images/versie2lapras.jpeg" width="375px" alt="versie2">
 ## Bronnenlijst
 
 <details open>
@@ -227,5 +268,8 @@ Mijn startniveau is: blauw
 6. bron 6: Flaticon Link: https://www.flaticon.com/free-icon/music-note_43922 Muzieknoot icoon.
 7. bron 7: Reddit Link: https://www.reddit.com/r/respectthreads/comments/54w917/respect_ashs_lapras_pokemon_anime/ Lapras verdrietig.
 8. bron 8: Fandomspot Link: https://www.fandomspot.com/lapras-nicknames/ Blije Lapras.
+9. bron 9: Achtergrond Link: https://samurai-gamers.com/new-pokemon-snap/ocean-seabed-walkthrough/ Achtergrond voor mijn website.
+10. bron 10 Photoshop voor bewerken van foto's
+11. bron 11: Illustrator voor het maken van de iconen
 
 </details>
