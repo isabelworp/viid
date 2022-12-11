@@ -252,8 +252,9 @@ Soms waren de afbeeldingen een beetje wazig maar ik heb na wat Photoshop kunsten
 Ik vind dat mijn ontwerp nu visueel zeker beter bij elkaar past en ik ben er nu nog trotser op. Het was namelijk een heel gedoe om de achtergrond en de zee te laten veranderen en zonder les of hulp vond ik dat best lastig. 
 Hier de twee versies naast elkaar:
 
-<img src="readme-images/versie1lapras.jpeg" width="375px" alt="versie1">
-<img src="readme-images/versie2lapras.jpeg" width="375px" alt="versie2">
+<img src="readme-images/versie1lapras.png" width="375px" alt="versie1">
+<img src="readme-images/versie2lapras.png" width="375px" alt="versie2">
+
 ## Bronnenlijst
 
 <details open>
