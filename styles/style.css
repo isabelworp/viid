@@ -156,9 +156,48 @@ main {
 }
 
 main.zeegen1 {
-  background-image: url("../images/zeegen1.png");
-  
+  background: url("../images/zeegen1.png");
+  background-size: cover;
+  height: 100%;
+  overflow: hidden;
 }
+
+main.zeegen2 {
+  background-size: cover;
+  height: 100%;
+  overflow: hidden;
+}
+
+main.zeegen3 {
+  background-size: cover;
+  height: 100%;
+  overflow: hidden;
+}
+
+main.zeegen4 {
+  background-size: cover;
+  height: 100%;
+  overflow: hidden;
+}
+
+main.zeegen5 {
+  background-size: cover;
+  height: 100%;
+  overflow: hidden;
+}
+
+main.zeegen6 {
+  background-size: cover;
+  height: 100%;
+  overflow: hidden;
+}
+
+main.zeegen7 {
+  background-size: cover;
+  height: 100%;
+  overflow: hidden;
+}
+
 
 main ol {
   margin: 0;
@@ -233,9 +272,7 @@ main a:focus {
 
 a img.gen2 {
   content: url("../images/gen2.png");
-
 }
-
 
 a img.gen3 {
   content: url("../images/gen3.png");
@@ -257,7 +294,7 @@ a img.gen7 {
   content: url("../images/gen8.png");
 }
 
-
+/* Het veranderen van de achtergrond */
 
 main.zeegen2 {
   background-image: url("../images/zeegen2.png");
@@ -283,6 +320,7 @@ main.zeegen7 {
   background-image: url("../images/zeegen6.png");
 }
 
+/* Het veranderen van de zee waar Lapras in zwemt */
 
 main img.voorkant2 {
   content: url("../images/voorkantzee2.png");
@@ -307,6 +345,8 @@ main img.voorkant6 {
 main img.voorkant7 {
   content: url("../images/voorkantzee.png");
 }
+
+
 /* achtergrond  KLOPT NIET
 
 
